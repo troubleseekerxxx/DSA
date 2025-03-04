@@ -1,1 +1,48 @@
+Basic Questions 1D Array
+==========================
+Linear Search in an array. --> Done
+Count 0's and 1's in an array.
+Maximum number in an array.
+Minimum number in an array.
+Extreme print in an array.
+Reverse an array.
 
+Medium Questions 1D Array
+==========================
+Find unique element.
+Union of two arrays.
+Intersection of two arrays.
+Pair sum.
+Two sum.
+Triplet sum.
+Sort 0's, 1's and 2's.
+
+2D Array
+==================
+Rowwise sum print.
+Columnwise sum print.
+Linear search in 2D array.
+Min/Max element in 2D array.
+Transpose of a matrix.
+
+Ideal Questions
+==================
+Move all negative numbers to begining and positive to end.
+Find the duplicate number.
+Missing element from an array with duplicates.
+Missing element in an array.
+Find first repeating element.
+Common element in 3 sorted arrays.
+Wave order print.
+Spiral order print.
+Add two numbers represented by array.
+Factorial of a large number.
+Rotate array by k positions to right.
+Rotate array by k positions to left.
+Majority element.
+Best time to buy and sell stocks.
+Count pairs with given sum.
+Factorial trailing zeroes.
+============================================================================
+GFG
+------
